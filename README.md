@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me:
-    - https://www.fiverr.com/ntechbd
     - https://clickdigim.com
+    - https://automationpartners.ai
 
 <!---
 mr-kaysar/mr-kaysar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
