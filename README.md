@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mr-kaysar
 - 👀 I’m interested in programming
-- 🌱 I’m like PHP and currently learning Angular, GraphQL, Rust
+- 🌱 I like PHP and currently learning Angular, GraphQL, Rust
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me:
     - https://clickdigim.com
